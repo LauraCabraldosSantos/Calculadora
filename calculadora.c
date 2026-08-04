@@ -6,3 +6,7 @@ int main (){
     retunr 0;
 
 }
+
+int soma(int x, int y ){
+    
+}
